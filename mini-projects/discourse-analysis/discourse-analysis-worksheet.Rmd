@@ -1,6 +1,6 @@
 ---
 title: "SDS 237 - Mini-Project: Discourse Analysis"
-author: "YOUR NAME HERE"
+author: "Nubraz Fatima Khan"
 date: "Last updated on `r Sys.Date()`"
 output: pdf_document
 ---
@@ -10,10 +10,12 @@ output: pdf_document
 # 1. Establish the context 
 
 ## Who is speaking?
-
+Kenneth Cukier
 ## What are they speaking about?
+They're talking about Big Data. This is a primary example of technocratic discourse.  
     
 ## When/where/why are they speaking?
+They're speaking at Tedtalk to inform people about why Big Data is better data. 
 
 ---
 # 2. Consider the medium
